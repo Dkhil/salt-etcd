@@ -31,6 +31,7 @@ runner modules
     pki
     queue
     reactor
+    resource
     salt
     saltutil
     sdb
